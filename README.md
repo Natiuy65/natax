@@ -72,9 +72,9 @@
     
 ## ⭐️ Credits
   
-- [TeLe TiPs](https://github.com/teletips)
-- [Thakshaka](https://t.me/thakshakar)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [TeLe TiPs](https://github.com/natiuy65)
+- [Thakshaka](https://t.me/natiuy65)
+- [Pyrogram](https://github.com/natiuy65)
 
 
 ## 🚨 Warning
@@ -92,4 +92,6 @@
   
 Ping All is licensed under the [GNU Affero General Public License v3.0](https://github.com/teletips/PingAllBot-TeLeTiPs/blob/main/LICENSE)
 
-Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
+Copyright ©️ 2022 Natiuy65. All Rights Reserved
+Join https://t.me/accounttool fot mo![IMG_20221122_125858_211](https://user-images.githubusercontent.com/115076912/205431410-4ba87f2a-0c95-4aab-9229-a414b4ced1d6.jpg)
+re
